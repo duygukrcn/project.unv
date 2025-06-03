@@ -1,4 +1,4 @@
-md
+
 🎤 Multilingual Voice Translator
 A simple web-based voice translator that recognizes spoken input and translates it into Turkish, English, and German in real time.
 
